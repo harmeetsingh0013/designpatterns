@@ -18,4 +18,7 @@
 			<url>http://www.harmeetsingh13.blogspot.in/</url>
 		</developer>
 	</developers>
+	<modules>
+		<module>abstract-factory-pattern</module>
+	</modules>
 </project>
