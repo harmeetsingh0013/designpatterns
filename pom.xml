@@ -1,0 +1,21 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.harmeetsinghtaara.designpatterns</groupId>
+	<artifactId>design-patterns-examples</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<name>Design Patterns</name>
+	<description>This is the parent project, which have modules and very modeule define one design pattern with example</description>
+	
+	<developers>
+		<developer>
+			<name>Harmeet Singh(Taara)</name>
+			<email>harmeetsingh.0013@gmail.com</email>
+			<roles>
+				<role>Java EE Developer</role>
+			</roles>
+			<url>http://www.harmeetsingh13.blogspot.in/</url>
+		</developer>
+	</developers>
+</project>
