@@ -6,7 +6,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>Design Patterns</name>
-	<description>This is the parent project, which have modules and very modeule define one design pattern with example</description>
+	<description>This is the parent project, which have modules and very module define one design pattern with example</description>
 	
 	<developers>
 		<developer>
